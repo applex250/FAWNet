@@ -1,0 +1,9 @@
+torch>=2.0
+torchvision
+einops
+numpy
+opencv-python
+Pillow
+pytorch-msssim
+tqdm
+tensorboard
